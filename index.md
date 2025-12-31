@@ -14,7 +14,7 @@ title: ""
 }
 .profile {
   flex: 1;
-  max-width: 260px;
+  max-width: 280px;
   text-align: left;
 }
 
