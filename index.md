@@ -4,34 +4,44 @@ title: ""
 ---
 
 <style>
+/* 전체 컨테이너 간격 확장 */
 .container {
   display: flex;
-  flex-wrap: wrap;
-  gap: 80px; 
-  max-width: 1100px;
+  gap: 120px;                /* 좌우 간격 확대 */
+  max-width: 1200px;
   margin: 60px auto;
-  font-family: sans-serif;
 }
-
+  
+/* 프로필 카드 크기 조정 */
 .profile {
-  flex: 1;
-  max-width: 280px;
-  text-align: left;
-  padding: 20px; /* 내부 여백 */
-  border: 1.5px solid #e5e5e5; /* 연한 테두리 */
-  border-radius: 12px; /* 둥근 모서리 */
-  background: #fafafa; /* 은은한 배경 */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* 부드러운 그림자 */
+  flex: 0 0 320px;           /* 카드 폭 키움 */
+  min-height: auto;          /* 불필요한 여백 제거 */
+  padding: 28px;             /* 내부 간격 균일하게 */
+  background: #fafafa;
+  border: 1.5px solid #e5e5e5;
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
 }
 
+/* 프로필 이미지 정렬 + 크기 */
 .profile img {
-  width: 200px;
-  height: 200px;
-  border-radius: 5%;
-  object-fit: cover;
-  margin-bottom: 15px;
+  width: 95%;
+  height: auto;
+  border-radius: 10px;
+  margin: 0 auto 18px auto;
+  display: block;
+}
+/* 프로필 텍스트 간격 재정비 */
+.profile h3 {
+  margin-bottom: 12px;
+  font-size: 1.25rem;
+  font-weight: 600;
 }
 
+.profile p, .profile ul {
+  line-height: 1.7;
+  margin-bottom: 14px;
+}
 .info {
   flex: 3;
   min-width: 300px;
