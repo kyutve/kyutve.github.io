@@ -65,7 +65,7 @@ h1 {
 
 # Kyutae Kang
 
-I am studying Mathematics ****at KyungHee University, focusing on deep learning and its applications to computer vision. 
+I am studying Mathematics at KyungHee University, focusing on deep learning and its applications to computer vision. 
 
 I document what I learn on [my blog](https://azurei.tistory.com/) — from concepts to implementation details and failures.
 
