@@ -7,15 +7,21 @@ title: ""
 .container {
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
-  max-width: 1000px;
-  margin: 40px auto;
+  gap: 80px; 
+  max-width: 1100px;
+  margin: 60px auto;
   font-family: sans-serif;
 }
+
 .profile {
   flex: 1;
   max-width: 280px;
   text-align: left;
+  padding: 20px; /* 내부 여백 */
+  border: 1.5px solid #e5e5e5; /* 연한 테두리 */
+  border-radius: 12px; /* 둥근 모서리 */
+  background: #fafafa; /* 은은한 배경 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* 부드러운 그림자 */
 }
 
 .profile img {
@@ -71,7 +77,7 @@ I document what I learn on [my blog](https://azurei.tistory.com/) — from conce
 
 ---
 
-### 📃Education
+## **📃Education**
 
 **B.S. in Mathematics,** Kyung Hee University ( 2020.03 ~ 2026.02 )
 
@@ -83,7 +89,7 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 
 ---
 
-### 🛠 Skills
+## **🛠 Skills**
 
 **Python**, PyTorch, NumPy, Matplotlib, Git
 
@@ -91,7 +97,7 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 
 ---
 
-## Contact
+## **Contact**
 
 I’d be happy to talk more — feel free to reach out anytime!
 
