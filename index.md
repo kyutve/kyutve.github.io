@@ -86,8 +86,7 @@ I am studying Mathematics at KyungHee University, focusing on deep learning and 
 I document what I learn on [my blog](https://azurei.tistory.com/) — from concepts to implementation details and failures.
 
 ---
-
-
+<br><br>
 
 ## **📃Education**
 
@@ -101,7 +100,7 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 
 ---
 
-
+<br><br>
 
 ## **🛠 Skills**
 
@@ -111,7 +110,7 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 
 ---
 
-
+<br><br>
 
 ## **Contact**
 
