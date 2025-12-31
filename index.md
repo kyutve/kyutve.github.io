@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kyutae Kang"
+title: ""
 ---
 
 <style>
