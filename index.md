@@ -62,7 +62,7 @@ h1 {
 </div>
 
 
-<div class="info">
+<div class="info" markdown="1">
 
 # Kyutae Kang  
 
