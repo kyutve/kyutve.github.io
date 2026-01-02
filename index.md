@@ -109,7 +109,7 @@ layout: default
   <img src="./images/profile.jpg" alt="profile">
 
   <h3>Kyutae Kang</h3>
-  ---
+  
   <p>I major in Mathematics 📏 and have interest in Computer Vision</p>
 
 <ul class="icon-list">
@@ -122,6 +122,7 @@ layout: default
   <li>
     <span class="icon-wrapper">
       <img src="./images/wikiversity.svg" class="icon" alt="Univ">
+    </span>
     <span>Kyung Hee University</span>
   </li>
 
@@ -154,7 +155,7 @@ layout: default
 <div class="info" markdown="1">
 
 # **Kyutae Kang**
-
+---
 I am studying Mathematics at KyungHee University, focusing on deep learning and its applications to computer vision. 
 
 I document what I learn on [my blog](https://azurei.tistory.com/) — from concepts to implementation details and failures.
