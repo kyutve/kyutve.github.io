@@ -106,10 +106,6 @@ layout: default
 <div class="profile">
   <img src="./images/profile.jpg" alt="profile">
 
-  <h3>Kyutae Kang</h3>
-  
-  <p>I major in Mathematics 📏 and have interest in Computer Vision</p>
-
 <ul class="icon-list">
   <li>
     <span class="icon-wrapper">
