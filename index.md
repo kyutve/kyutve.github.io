@@ -165,8 +165,7 @@ I document what I learn on [my blog](https://azurei.tistory.com/) — from conce
 <br><br>
 
 ## **Education**
-
-**B.S. in Mathematics,** Kyung Hee University ( 2020.03 ~ 2026.02 )
+B.S. in Mathematics, Kyung Hee University ( 2020.03 ~ 2026.02 )
 
 GPA: 4.16 / 4.5 ( Major : 4.24 / 4.5 )
 
@@ -180,11 +179,12 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 
 ## **Skills**
 
-**Docs**, PyTorch, NumPy, Matplotlib, Git
+Docs, PyTorch, NumPy, Matplotlib, Git
 
-**Math:** Linear Algebra, PDE, Optimization, Matrix Calculus
-
-
+Math: Linear Algebra, PDE, Optimization, Matrix Calculus
+<img src"https://img.shields.io/badge/뱃지이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src"https://img.shields.io/badge/뱃지이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src"https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <br><br>
 
 ## **Contact**
