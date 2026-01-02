@@ -58,6 +58,11 @@ h1 {
   text-decoration: none;
   color: #0366d6;
 }
+
+.wrapper,
+.page-content {
+  max-width: none !important;
+}
 </style>
 
 
