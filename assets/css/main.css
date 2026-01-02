@@ -21,9 +21,8 @@ body {
   margin: 0;
   padding: 0;
 }
-.info > *:first-child {
-  margin-top: 0;
-  padding-top: 0;
+.info p:first-child {
+  font-size: 1.15rem;
 }
 
 .profile img {
