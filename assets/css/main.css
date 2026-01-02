@@ -3,7 +3,7 @@
   gap: 60px;
   width: 100%;
   max-width: 3000px;
-  margin: 0 auto;
+  margin: 60px auto;
   align-items: flex-start;
 }
 
@@ -14,9 +14,11 @@
 
 .info {
   flex: 2;
-  max-width: 100%;
-  padding-top: 3px;
+  max-width: 100%;;
   line-height: 1.85;
+}
+.info > *:first-child {
+  margin-top: 0;
 }
 
 .profile img {
