@@ -109,6 +109,7 @@ layout: default
   <img src="./images/profile.jpg" alt="profile">
 
   <h3>Kyutae Kang</h3>
+  ---
   <p>I major in Mathematics 📏 and have interest in Computer Vision</p>
 
 <ul class="icon-list">
@@ -118,9 +119,9 @@ layout: default
     </span>
     <span>Seoul, Korea</span>
   </li>
-
   <li>
-    <span class="icon-wrapper emoji">🏦</span>
+    <span class="icon-wrapper">
+      <img src="./images/wikiversity.svg" class="icon" alt="Univ">
     <span>Kyung Hee University</span>
   </li>
 
