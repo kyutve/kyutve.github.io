@@ -178,26 +178,21 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 <br><br>
 
 ## **Skills**
-
-Docs, PyTorch, NumPy, Matplotlib, Git
-
-Math: Linear Algebra, PDE, Optimization, Matrix Calculus
-
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Research-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Research-purple)
-![Mathematics](https://img.shields.io/badge/Mathematics-Core-blue)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-Strong-brightgreen)
-![Probability](https://img.shields.io/badge/Probability-Statistics-orange)
+![Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 <br>
-![SLAM](https://img.shields.io/badge/SLAM-Graph--based-red)
-![Optimization](https://img.shields.io/badge/Optimization-Nonlinear-yellow)
-![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-Experienced-blueviolet)
+
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/geopandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
 <br><br>
 
 ## **Contact**
