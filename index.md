@@ -75,7 +75,7 @@ h1 {
   <ul style="list-style:none; padding:0; line-height:1.8; margin-top:15px;">
   <li>📍 Seoul, Korea</li>
     <li>🏦 Kyung Hee University</li>
-    <li>📧 <a href="mailto:raymondkang4837@email.com">email</a></li>
+    <li>📧 <a href="mailto:raymondkang4837@email.com">Email</a></li>
     <li>🐱 <a href="https://github.com/raymondkang4837" target="_blank">GitHub</a></li>
     <li>🏡 <a href="https://azurei.tistory.com/" target="_blank">Blog</a></li>
   </ul>
