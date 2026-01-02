@@ -187,7 +187,17 @@ Math: Linear Algebra, PDE, Optimization, Matrix Calculus
 ![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Research-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Research-purple)
+![Mathematics](https://img.shields.io/badge/Mathematics-Core-blue)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-Strong-brightgreen)
+![Probability](https://img.shields.io/badge/Probability-Statistics-orange)
 
+<br>
+![SLAM](https://img.shields.io/badge/SLAM-Graph--based-red)
+![Optimization](https://img.shields.io/badge/Optimization-Nonlinear-yellow)
+![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-Experienced-blueviolet)
 <br><br>
 
 ## **Contact**
