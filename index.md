@@ -40,7 +40,17 @@ layout: default
   font-size: 1.25rem;
   font-weight: 600;
 }
+.icon-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 
+.icon-item .icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
 .profile p, .profile ul {
   line-height: 1.7;
   margin-bottom: 14px;
@@ -73,10 +83,15 @@ h1 {
   <p>I major in Mathematics 📏 and have interest in Computer Vision</p>
   <ul style="list-style:none; padding:0; line-height:1.8; margin-top:15px;">
   <li>📍 Seoul, Korea</li>
-    <li>🏦 Kyung Hee University</li>
-    <li>📧 <a href="mailto:raymondkang4837@email.com">Email</a></li>
-    <li><img src="./images/github.svg" > <a href="https://github.com/raymondkang4837" target="_blank">GitHub</a></li>
-    <li>🏡 <a href="https://azurei.tistory.com/" target="_blank">Blog</a></li>
+  <li>🏦 Kyung Hee University</li>
+  <li>📧 <a href="mailto:raymondkang4837@email.com">Email</a></li>
+  <li class="icon-item">
+    <img src="./images/github.svg" alt="GitHub" class="icon">
+    <a href="https://github.com/raymondkang4837" target="_blank" rel="noopener noreferrer">
+    GitHub
+    </a>
+  </li>
+  <li>🏡 <a href="https://azurei.tistory.com/" target="_blank">Blog</a></li>
   </ul>
 </div>
 
