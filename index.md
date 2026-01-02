@@ -31,15 +31,12 @@ layout: default
   display: block;
 }
 
-.profile h3 {
-  margin-bottom: 12px;
-  font-size: 1.25rem;
-  font-weight: 600;
-}
-
-.profile p {
-  line-height: 1.7;
-  margin-bottom: 14px;
+.profile-intro {
+  padding-left: 32px; /* 20px(icon) + 12px(gap) */
+  margin-bottom: 20px;
+}.profile-intro {
+  padding-left: 32px; /* 20px(icon) + 12px(gap) */
+  margin-bottom: 20px;
 }
 
 /* ===== 아이콘 리스트 ===== */
@@ -105,7 +102,12 @@ layout: default
 
 <div class="profile">
   <img src="./images/profile.jpg" alt="profile">
-
+<div class="profile-intro">
+    <h3 class="profile-name">Kyutae Kang</h3>
+    <p class="profile-desc">
+      Mathematics major with interests in Computer Vision and AI.
+    </p>
+</div>
 <ul class="icon-list">
   <li>
     <span class="icon-wrapper">
@@ -121,11 +123,15 @@ layout: default
   </li>
 
   <li>
-    <span class="icon-wrapper">
-      <img src="./images/gmail.svg" class="icon" alt="Email">
-    </span>
-    <a href="mailto:raymondkang4837@email.com">Email</a>
-  </li>
+  <a
+    href="mailto:raymondkang4837@email.com"
+    class="icon-wrapper"
+  >
+    <img src="./images/gmail.svg" class="icon" alt="Email">
+  </a>
+
+  <span>Email</span>
+</li>
 
   <li>
     <span class="icon-wrapper">
