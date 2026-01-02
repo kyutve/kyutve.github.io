@@ -33,10 +33,7 @@ layout: default
 
 .profile-intro {
   padding-left: 32px; /* 20px(icon) + 12px(gap) */
-  margin-bottom: 20px;
-}.profile-intro {
-  padding-left: 32px; /* 20px(icon) + 12px(gap) */
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 /* ===== 아이콘 리스트 ===== */
@@ -129,24 +126,27 @@ layout: default
   >
     <img src="./images/gmail.svg" class="icon" alt="Email">
   </a>
-
   <span>Email</span>
 </li>
 
   <li>
-    <span class="icon-wrapper">
-      <img src="./images/github.svg" class="icon" alt="GitHub">
-    </span>
-    <a href="https://github.com/raymondkang4837" target="_blank" rel="noopener noreferrer">
-      GitHub
-    </a>
+  <a
+    href="https://github.com/raymondkang4837"
+    class="icon-wrapper"
+  >
+    <img src="./images/github.svg" class="icon" alt="Github">
+  </a>
+  <span>Github</span>
   </li>
 
   <li>
-    <span class="icon-wrapper">
-      <img src="./images/tistory.svg" class="icon" alt="Blog">
-    </span>
-    <a href="https://azurei.tistory.com/" target="_blank">Blog</a>
+  <a
+    href="https://azurei.tistory.com/"
+    class="icon-wrapper"
+  >
+    <img src="./images/tistory.svg" class="icon" alt="Blog">
+  </a>
+  <span>Blog</span>
   </li>
 </ul>
 </div>
