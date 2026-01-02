@@ -40,7 +40,7 @@ layout: default
 
 .icon-list {
   list-style: none;
-  padding: 0;
+  padding-left: 32px;
   margin-top: 16px;
 
   display: flex;
