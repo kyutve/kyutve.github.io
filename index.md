@@ -162,6 +162,7 @@ I am studying Mathematics at KyungHee University, focusing on deep learning and 
 I document what I learn on [my blog](https://azurei.tistory.com/) — from concepts to implementation details and failures.
 
 
+
 <br><br>
 
 ## **Education**
@@ -196,6 +197,9 @@ Numerical Analysis, Differential Geometry, Linear Algebra, Probability Theory, S
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+
+
+
 <br><br>
 
 ## **Contact**
