@@ -58,19 +58,17 @@ layout: default
   display: flex;
   align-items: baseline;
   line-height: 1.2;
+  padding-left: 0;
 }
   
 .icon-wrapper {
   width: 22px; 
   height: 22px;
   display: flex;
+  padding-left: 0;
   justify-content: center;
   align-items: center;
   margin-right: 12px;
-}
-.icon-wrapper.emoji {
-  font-size: 18px;
-  line-height: 1;
 }
   
 .icon {
@@ -156,6 +154,7 @@ layout: default
 
 # **Kyutae Kang**
 ---
+<br>
 I am studying Mathematics at KyungHee University, focusing on deep learning and its applications to computer vision. 
 
 I document what I learn on [my blog](https://azurei.tistory.com/) — from concepts to implementation details and failures.
