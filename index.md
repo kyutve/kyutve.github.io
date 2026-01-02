@@ -40,6 +40,45 @@ layout: default
   font-size: 1.25rem;
   font-weight: 600;
 }
+
+
+.icon-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 16px;
+}
+
+.icon-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+/* SVG / PNG 아이콘 */
+.icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+/* 이모지 크기 통일 */
+.emoji {
+  width: 18px;
+  text-align: center;
+}
+
+/* 링크 스타일 */
+.icon-list a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.icon-list a:hover {
+  text-decoration: underline;
+}
+
+  
 .icon-item {
   display: flex;
   align-items: center;
@@ -81,7 +120,30 @@ h1 {
   <img src="./images/profile.jpg" alt="profile"> <!-- 프로필 이미지 경로 -->
   <h3>Kyutae Kang</h3>
   <p>I major in Mathematics 📏 and have interest in Computer Vision</p>
-  <ul style="list-style:none; padding:0; line-height:1.8; margin-top:15px;">
+  
+  <ul class="icon-list">
+    <li>
+      <span class="emoji">📍</span> Seoul, Korea
+    </li>
+    <li>
+      <span class="emoji">🏦</span> Kyung Hee University
+    </li>
+    <li>
+      <img src="./images/email.svg" class="icon" alt="Email">
+      <a href="mailto:raymondkang4837@email.com">Email</a>
+    </li>
+    <li>
+      <img src="./images/github.svg" class="icon" alt="GitHub">
+      <a href="https://github.com/raymondkang4837" target="_blank">GitHub</a>
+    </li>
+    <li>
+      <span class="emoji">🏡</span>
+      <a href="https://azurei.tistory.com/" target="_blank">Blog</a>
+    </li>
+  </ul>
+
+
+    
   <li>📍 Seoul, Korea</li>
   <li>🏦 Kyung Hee University</li>
   <li>📧 <a href="mailto:raymondkang4837@email.com">Email</a></li>
