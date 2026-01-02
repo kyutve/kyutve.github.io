@@ -61,7 +61,7 @@ h1 {
 
 .wrapper,
 .page-content {
-  max-width: none !important;
+  max-width: 100 !important;
 }
 </style>
 
