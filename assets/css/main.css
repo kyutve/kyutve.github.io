@@ -3,9 +3,8 @@
   gap: 60px;
   width: 100%;
   max-width: 3000px;
-  margin: 0 auto;
+  margin: 40px auto;
   align-items: flex-start;
-  padding-top: 40px;
 }
 
 .profile {
